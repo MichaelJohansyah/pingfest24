@@ -99,7 +99,7 @@
             <div>
                 <div class="event-card pingfest-grid">
                     <div>
-                        <p>Competitive Programming</p>
+                        <p>Competitid Programming</p>
                     </div>
                     <div>
                         <h2>Competitive Programming</h2>
